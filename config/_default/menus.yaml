@@ -1,0 +1,34 @@
+leftnav:
+- identifier: 7070e3a0-88fc-4787-5f3b-21fff093eb48
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ed4dfc8a-9cd0-5b21-5be0-87545fb38dd8
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 999ac295-6cd3-f81f-6d29-9fa5593658e0
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: 1b545ce6-62f5-41f2-a203-048835a027d6
+  name: Supplementary Readings
+  pageRef: /pages/readings/supplementary-readings
+  parent: 999ac295-6cd3-f81f-6d29-9fa5593658e0
+  weight: 40
+- identifier: 106ef2fd-c116-c0d2-0dab-97364103aa9d
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 50
+- identifier: 3a669878-068d-d164-dd6a-4be435e347f2
+  name: Recitation Slides
+  pageRef: /pages/recitation-slides
+  weight: 60
+- identifier: 146ed505-5b84-2884-3642-9903d597ffce
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: 9ffe5083-feba-ed72-4bec-0c5c85da94bf
+  name: Final Exam
+  pageRef: /pages/final-exam
+  weight: 80
