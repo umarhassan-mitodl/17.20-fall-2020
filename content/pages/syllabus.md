@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the course description, learning goals, expectations,
   grading policy, and required reading info.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -48,13 +50,13 @@ Expectations
 The following expectations are broadly applicable to any course in the social sciences:
 
 *   Students are expected to treat each other with respect, listen attentively when others are speaking, and avoid personal attacks. At the same time, all students should feel comfortable expressing their opinions, political or otherwise, as long as they do so in an appropriate manner.
-*   Plagiarism will not be tolerated in this course. As a general rule, you should never take credit for words or ideas that are not your own, and you should give your readers enough information to evaluate the source and quality of your evidence. Self-plagiarism (reusing material you have written in another context) is also not allowed. For more information on plagiarism and academic integrity, consult {{% resource_link "de6422a2-af78-43a3-b7c6-24bb34669412" "Academic Integrity at MIT: A Handbook for Students" %}}.
-*   Please properly cite any direct quotations or ideas that you’ve taken from others. In this class, we will be using the Chicago author-date citation style (the citations in this syllabus follow this style). For details on this style, consult {{% resource_link "0b849941-5f07-4ed5-a05f-40af6708ffc7" "The Chicago Manual of Style Online" %}}.
+*   Plagiarism will not be tolerated in this course. As a general rule, you should never take credit for words or ideas that are not your own, and you should give your readers enough information to evaluate the source and quality of your evidence. Self-plagiarism (reusing material you have written in another context) is also not allowed. For more information on plagiarism and academic integrity, consult [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
+*   Please properly cite any direct quotations or ideas that you’ve taken from others. In this class, we will be using the Chicago author-date citation style (the citations in this syllabus follow this style). For details on this style, consult [The Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/home.html).
 
 Grading Policy
 --------------
 
-This being a communication-intensive HASS ({{% resource_link "285bc5ec-90b0-438a-b1b1-2869c057135c" "CI-H" %}}) subject, written assignments of various lengths are an integral part of the learning process. Specifically, grades in this course are based on five components:
+This being a communication-intensive HASS ([CI-H](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects)) subject, written assignments of various lengths are an integral part of the learning process. Specifically, grades in this course are based on five components:
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -170,12 +172,12 @@ Kollman, Ken, ed. _Readings in American Politics: Analysis & Perspectives_. 4th
 
 Additionally, an important part of this class is learning to be an informed consumer of political news. In addition to the week’s assigned academic readings, you are expected to read/skim multiple news outlets of your choice and to be familiar with the main stories of the week. MIT students will therefore need a few paid journalism subscriptions. Think of these as equivalent to the expense of another book or two, and no less important than your other required reading. Here are a few suggestions (most have student rates). I strongly urge you to get the top 2 as a baseline and peruse some others:
 
-1.  {{% resource_link "a96df014-a199-4e1d-9dd1-abf2ac5aa73a" "The New York Times" %}}
-2.  {{% resource_link "02c67ec5-6b80-4b58-870e-95b45c5185f3" "The Washington Post" %}}
-3.  {{% resource_link "e1e451a2-b0ef-40c7-85c1-75e49c844d79" "The Guardian" %}}
+1.  [The New York Times](https://www.nytimes.com/)
+2.  [The Washington Post](https://www.washingtonpost.com/)
+3.  [The Guardian](https://www.theguardian.com/us)
 4.  Your local news!
-5.  {{% resource_link "1e6ed741-5ba8-4a2d-9e52-333d4f3c5f70" "The New Yorker" %}}
-6.  {{% resource_link "198303d0-179e-4849-97dc-7c0ce1972897" "CityLab" %}}
-7.  {{% resource_link "6edff25f-9735-47f7-ab2f-2258f279b4ee" "The Atlantic" %}}
+5.  [The New Yorker](https://www.newyorker.com/)
+6.  [CityLab](https://www.bloomberg.com/citylab)
+7.  [The Atlantic](https://www.theatlantic.com/)
 
 For additional readings, see the {{% resource_link 999ac295-6cd3-f81f-6d29-9fa5593658e0 "Readings" %}} section.

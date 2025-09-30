@@ -24,6 +24,7 @@
     "website": "17-20-introduction-to-the-american-political-process-fall-2020"
   },
   "course_title": "Introduction to the American Political Process",
+  "hide_download": true,
   "course_description": "This course provides a substantive overview of U.S. politics and an introduction to the discipline of political science. It surveys the institutional foundations of U.S. politics as well as the activities of political elites, organizations, and ordinary citizens. It explores the application of general political science concepts and analytic frameworks to specific episodes and phenomena in U.S. politics.\n",
   "department_numbers": [
     "17"
@@ -34,6 +35,7 @@
     "content": "a0debeb7-4ab7-ae16-6081-20b6ea95358a",
     "website": "17-20-introduction-to-the-american-political-process-fall-2020"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Exams with Solutions",

@@ -4,6 +4,8 @@ description: ''
 file: /courses/17-20-introduction-to-the-american-political-process-fall-2020/7170e6668fd3282cb6b71510d40ee958_MIT17_20F20_Paper1_Example.pdf
 file_size: 149837
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
