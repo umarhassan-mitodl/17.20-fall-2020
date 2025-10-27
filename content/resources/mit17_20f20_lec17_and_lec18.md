@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-20-introduction-to-the-american-political-process-fall-2020/03154830773a2ab8e575e551ff3b2032_MIT17_20F20_lec17_and_lec18.pdf
 file_size: 240495
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
