@@ -48,13 +48,13 @@ Expectations
 The following expectations are broadly applicable to any course in the social sciences:
 
 *   Students are expected to treat each other with respect, listen attentively when others are speaking, and avoid personal attacks. At the same time, all students should feel comfortable expressing their opinions, political or otherwise, as long as they do so in an appropriate manner.
-*   Plagiarism will not be tolerated in this course. As a general rule, you should never take credit for words or ideas that are not your own, and you should give your readers enough information to evaluate the source and quality of your evidence. Self-plagiarism (reusing material you have written in another context) is also not allowed. For more information on plagiarism and academic integrity, consult [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
-*   Please properly cite any direct quotations or ideas that you’ve taken from others. In this class, we will be using the Chicago author-date citation style (the citations in this syllabus follow this style). For details on this style, consult [The Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/home.html).
+*   Plagiarism will not be tolerated in this course. As a general rule, you should never take credit for words or ideas that are not your own, and you should give your readers enough information to evaluate the source and quality of your evidence. Self-plagiarism (reusing material you have written in another context) is also not allowed. For more information on plagiarism and academic integrity, consult {{% resource_link "f01eba40-cbe9-4b8a-bc36-933874dd2340" "Academic Integrity at MIT: A Handbook for Students" %}}.
+*   Please properly cite any direct quotations or ideas that you’ve taken from others. In this class, we will be using the Chicago author-date citation style (the citations in this syllabus follow this style). For details on this style, consult {{% resource_link "5b55e8e7-45a3-4e26-a852-bab89175ccc1" "The Chicago Manual of Style Online" %}}.
 
 Grading Policy
 --------------
 
-This being a communication-intensive HASS ([CI-H](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects)) subject, written assignments of various lengths are an integral part of the learning process. Specifically, grades in this course are based on five components:
+This being a communication-intensive HASS ({{% resource_link "303c036e-3f2c-4667-9160-45e451f60043" "CI-H" %}}) subject, written assignments of various lengths are an integral part of the learning process. Specifically, grades in this course are based on five components:
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -170,12 +170,12 @@ Kollman, Ken, ed. _Readings in American Politics: Analysis & Perspectives_. 4th
 
 Additionally, an important part of this class is learning to be an informed consumer of political news. In addition to the week’s assigned academic readings, you are expected to read/skim multiple news outlets of your choice and to be familiar with the main stories of the week. MIT students will therefore need a few paid journalism subscriptions. Think of these as equivalent to the expense of another book or two, and no less important than your other required reading. Here are a few suggestions (most have student rates). I strongly urge you to get the top 2 as a baseline and peruse some others:
 
-1.  [The New York Times](https://www.nytimes.com/)
-2.  [The Washington Post](https://www.washingtonpost.com/)
-3.  [The Guardian](https://www.theguardian.com/us)
+1.  {{% resource_link "5604197b-79e5-4d5d-8ff2-d26bfc76f974" "The New York Times" %}}
+2.  {{% resource_link "6f39fbcb-5cd6-48b7-bf30-cd8e6ec558a1" "The Washington Post" %}}
+3.  {{% resource_link "5bf4123c-b1e6-40da-823f-4892d01c3ac0" "The Guardian" %}}
 4.  Your local news!
-5.  [The New Yorker](https://www.newyorker.com/)
-6.  [CityLab](https://www.bloomberg.com/citylab)
-7.  [The Atlantic](https://www.theatlantic.com/)
+5.  {{% resource_link "2d3b9414-f8c8-4ae3-8e86-2053050b3304" "The New Yorker" %}}
+6.  {{% resource_link "d3bb90e8-b046-4c0b-b8d0-1a074202ebf2" "CityLab" %}}
+7.  {{% resource_link "78baf6d9-bcb6-442c-8dbc-dee556ec74e0" "The Atlantic" %}}
 
 For additional readings, see the {{% resource_link 999ac295-6cd3-f81f-6d29-9fa5593658e0 "Readings" %}} section.
